@@ -1,0 +1,60 @@
+/* header and headings css */
+header{
+    padding: 10px;
+    text-align: center;
+    background: #B0B7AD;
+    font-size: 30px;
+    margin-bottom: 20px;
+    height: 200px;
+}
+
+h1 {
+    font-family: Helvetica;
+}
+h2, h3 {
+    text-align: center;
+}
+
+/* images CSS */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 15%;
+}
+/* Main Content CSS */
+body {
+    background:#274C5F;
+}
+
+article {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 10%;
+}
+
+p {
+    font-family: Helvetica;
+    text-align: left;
+    
+}
+
+/* Lists, Links and Breaks CSS */
+
+a:hover{
+    color: lightblue;
+}
+ul {
+    margin-left: 40%;
+    margin-right: auto;
+}
+hr {
+    width: 40%;
+}
+
+/* CSS Classes */
+.aboutMe {
+    text-align: center;
+}
